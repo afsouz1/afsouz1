@@ -10,7 +10,7 @@
 
 ## 📱 Sobre Mim
 
-Desenvolvedor mobile em formação, focado em criar aplicativos Android nativos com Kotlin e soluções multiplataforma com Flutter. Atuo no ambiente Linux (atualmente utilizando o Debian 13), aproveitando sua eficiência para desenvolvimento mobile.
+Estudante de Análise e Desenvolvimento de Sistemas no IFTM (Instituto Federal do Triângulo Mineiro) e desenvolvedor mobile em formação, focado em criar aplicativos Android nativos com Kotlin e soluções multiplataforma com Flutter. Atuo no ambiente Linux (atualmente utilizando o Debian 13), aproveitando sua eficiência para desenvolvimento mobile.
 
 ## 🛠️ Tech Stack
 
