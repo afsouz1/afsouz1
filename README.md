@@ -1,6 +1,6 @@
 
 
-# 🚀 Olá, eu sou **Alan Souza**!
+# Olá, eu sou **Alan Souza**!
 
 **Desenvolvedor Mobile Android | Kotlin • Flutter • Android Studio**
 
@@ -8,11 +8,11 @@
 [![AOL Mail](https://img.shields.io/badge/AOL_Mail-afsouz.dev@aol.com-FF0B00?style=for-the-badge&logo=aol&logoColor=white)](mailto:afsouz.dev@aol.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afsouz1)
 
-## 📱 Sobre Mim
+## Sobre Mim
 
 Estudante de Análise e Desenvolvimento de Sistemas no IFTM (Instituto Federal do Triângulo Mineiro) e desenvolvedor mobile em formação, focado em criar aplicativos Android nativos com Kotlin e soluções multiplataforma com Flutter. Atuo no ambiente Linux (atualmente utilizando o Debian 13), aproveitando sua eficiência para desenvolvimento mobile.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Linguagens:**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,14 +29,14 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFTM (Instituto Federal d
 ![Debian](https://img.shields.io/badge/Debian_Trixie-13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afsouz1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsouz1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6&hide=html,css,scss"/>
 </p>
 
-## 💼 Habilidades Técnicas
+## Habilidades Técnicas
 
 ### **Desenvolvimento Android Nativo:**
 - Kotlin e Java para Android
@@ -53,7 +53,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFTM (Instituto Federal d
 - Terminal e scripts Bash
 - Controle de versão com Git
 
-## 🎯 Objetivo Profissional
+## Objetivo Profissional
 
 > Buscando minha **primeira oportunidade como Desenvolvedor Mobile Júnior**, com foco em aplicativos Android nativos com Kotlin ou soluções multiplataforma com Flutter. Comprometido com código limpo, boas práticas e aprendizado contínuo. Pronto para contribuir com projetos reais e crescer junto com a equipe.
 
